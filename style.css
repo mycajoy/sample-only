@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    background: #f4f6f9;
+}
+
+.container {
+    width: 500px;
+    margin: 60px auto;
+    background: white;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+input, textarea, select {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+}
+
+button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+.ticket {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+}
