@@ -36,16 +36,15 @@ This system allows users to submit IT support tickets and enables administrators
 ## Project Structure
 
 it-helpdesk/
-│
-├── config.php
-├── index.php
-├── process_ticket.php
-├── login.php
-├── dashboard.php
-├── update_status.php
-├── logout.php
-├── style.css
-└── README.md
+- config.php
+- index.php
+- process_ticket.php
+- login.php
+- dashboard.php
+- update_status.php
+- logout.php
+- style.css
+- README.md
 
 ---
 
